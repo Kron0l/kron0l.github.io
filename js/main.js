@@ -48,6 +48,8 @@ function renderAll() {
 function renderNavigation(d) {
   $("site-name").textContent = DATA.site.name;
   $("footer-name").textContent = DATA.site.name;
+  $("footer-github").href = DATA.site.github;
+  $("footer-linkedin").href = DATA.site.linkedin;
   const n = d.nav;
   $("nav").innerHTML = `<a href="#home">${esc(n.home)}</a><a href="#about">${esc(n.about)}</a><a href="#skills">${esc(n.skills)}</a><a href="#projects">${esc(n.projects)}</a><a href="#contact">${esc(n.contact)}</a>`;
 }
