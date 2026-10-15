@@ -492,11 +492,24 @@ footer {
 
 .footer-links {
     display: flex;
-    gap: 24px;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-links a {
+    display: flex;
+    color: var(--muted);
+    transition: color 0.2s, transform 0.2s;
 }
 
 .footer-links a:hover {
     color: var(--accent);
+    transform: translateY(-3px);
+}
+
+.footer-links svg {
+    width: 24px;
+    height: 24px;
 }
 
 /* =========================
