@@ -490,6 +490,14 @@ footer {
     font-size: .75rem;
 }
 
+.footer-links {
+    display: flex;
+    gap: 24px;
+}
+
+.footer-links a:hover {
+    color: var(--accent);
+}
 
 /* =========================
    MOBILE
