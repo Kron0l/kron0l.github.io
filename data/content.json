@@ -126,7 +126,7 @@
       {
         "title": "Excaligun",
         "category": "C++ / SFML",
-        "description": "Beat the enemy and your friend in this speefrun platformer game.",
+        "description": "Beat the enemy and your friend in this speedrun platformer game.",
         "image": "assets/Excaligun_display.png",
         "link": "https://github.com/Kron0l/Excaligun/archive/refs/tags/Release.zip"
       },
