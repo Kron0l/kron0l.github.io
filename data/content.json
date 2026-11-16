@@ -140,7 +140,7 @@
     ]
   },
   "images": {
-    "hero": "https://github.com/Kron0l/kron0l.github.io/blob/main/assets/Projet.png",
+    "hero": "assets/Projet.png",
     "about": ""
   }
 }
