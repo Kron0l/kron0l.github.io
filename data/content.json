@@ -61,14 +61,21 @@
         "category": "C++ / SFML",
         "description": "Battez vos ennemies ainsi que vos amis dans ce jeu de speedrun plateformer.",
         "image": "assets/Excaligun_display.png",
-        "link": "https://github.com/Kron0l/Excaligun/archive/refs/tags/Release.zip"
+        "link": "https://github.com/Kron0l/Excaligun"
       },
       {
         "title": "After Impact",
         "category": "Unity / C#",
-        "description": "Projet technique mettant l’accent sur l’architecture et le gameplay.",
+        "description": "Après le crash de votre avion dans une chaîne de montagnes isolée, vous vous retrouvez seul au cœur d'une nature sauvage glaciale. Sans possibilité de contacter les services d'urgences, une seul priorité: survivre. Explorez votre environnement, gérez vos ressources et adaptez vous aux conditions difficiles de ce territoire enneigé.",
         "image": "assets/AfterImpact_display.png",
         "link": "https://alex-grt.itch.io/project-after-impact"
+      },
+      {
+        "title": "Rubik's Cube",
+        "category": "Unity / C#",
+        "description": "Pendant un moment d'ennui sans mes Rubik's cubes je me suis lancer dans un projet me permettant d'en résoudre quand même.",
+        "image": "assets/RubiksCubeScreen.png",
+        "link": "https://github.com/Kron0l/Rubik-s-Cube"
       }
     ]
   },
@@ -126,16 +133,23 @@
       {
         "title": "Excaligun",
         "category": "C++ / SFML",
-        "description": "Beat the enemy and your friend in this speedrun platformer game.",
+        "description": "Beat the enemy and your friend in this speefrun platformer game.",
         "image": "assets/Excaligun_display.png",
         "link": "https://github.com/Kron0l/Excaligun/archive/refs/tags/Release.zip"
       },
       {
         "title": "After Impact",
         "category": "Unity / C#",
-        "description": "Technical project focused on architecture and gameplay.",
+        "description": "Following the crash of your plane in a remote mountain range, you find yourself alone in the heart of a wild and icy nature. Without a way to contact the emergency services, only one priority is needed: to survive. Explore your environment, manage your resources and adapt to the harsh conditions of this snowy territory.",
         "image": "assets/AfterImpact_display.png",
         "link": "https://alex-grt.itch.io/project-after-impact"
+      },
+      {
+        "title": "Rubik's Cube",
+        "category": "Unity / C#",
+        "description": "During a boring moment without my Rubik's cubes I start a project allowing me to solve some anyway.",
+        "image": "RubiksCubeScreen.png",
+        "link": "https://github.com/Kron0l/Rubik-s-Cube"
       }
     ]
   },
@@ -144,3 +158,4 @@
     "about": ""
   }
 }
+    
