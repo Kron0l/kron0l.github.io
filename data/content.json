@@ -148,7 +148,7 @@
         "title": "Rubik's Cube",
         "category": "Unity / C#",
         "description": "During a boring moment without my Rubik's cubes I start a project allowing me to solve some anyway.",
-        "image": "RubiksCubeScreen.png",
+        "image": "assets/RubiksCubeScreen.png",
         "link": "https://github.com/Kron0l/Rubik-s-Cube"
       }
     ]
